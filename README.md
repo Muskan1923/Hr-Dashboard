@@ -32,4 +32,4 @@ The dashboard was build using the following tools and technologies:
 
 6.Screenshots / Demos
 
-![Dashboard Preview] :(https://https://github.com/Muskan1923/Hr-Dashboard/blob/main/HR%20analysis.png)
+![Dashboard Preview] :(https://github.com/Muskan1923/Hr-Dashboard/blob/main/HR%20analysis.png)
